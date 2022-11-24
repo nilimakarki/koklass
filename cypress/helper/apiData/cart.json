@@ -1,0 +1,91 @@
+[
+  {
+    "id": 2324,
+    "price": 75,
+    "quantity": 1,
+    "selectedUnit": {
+      "id": "38",
+      "title": "Kg",
+      "sellingPrice": 75,
+      "markedPrice": 75,
+      "newPrice": 68,
+      "oldPrice": 75,
+      "size": "500 Gm",
+      "sku": "MM-CH-2",
+      "barcode": "",
+      "stock": 999,
+      "hasOffer": false,
+      "alwaysAvailable": true
+    },
+    "note": "",
+    "product": {
+      "id": 24,
+      "title": "Mango (Malda)",
+      "slug": "mango-malda",
+      "link": "",
+      "moreInfo": "<div style=\"display: none;\">&nbsp;</div>\r\n<div style=\"display: none;\">&nbsp;</div>\r\n<div style=\"display: none;\">&nbsp;</div>\r\n<p>&nbsp;</p>",
+      "description": "<div style=\"display: none;\">&nbsp;</div>\r\n<div style=\"display: none;\">&nbsp;</div>\r\n<div style=\"display: none;\">&nbsp;</div>\r\n<p>&nbsp;</p>",
+      "taxable": true,
+      "taxableAmount": 0,
+      "decimal": false,
+      "hasOffer": false,
+      "categoryId": 12,
+      "categoryTitle": "Fruits",
+      "categorySlug": "fruits",
+      "categoryIcon": "https://koklassv4-orderingdev-ms.ekbana.net/storage/placeholder/placeholder-web-category.jpeg",
+      "categoryBackgroundImage": "https://koklassv4-orderingdev-ms.ekbana.net/storage/placeholder/placeholder-category-background.png",
+      "unitPrice": [
+        {
+          "id": 38,
+          "title": "Kg",
+          "sellingPrice": 75,
+          "markedPrice": 75,
+          "newPrice": 68,
+          "oldPrice": 75,
+          "size": "500 Gm",
+          "sku": "MM-CH-2",
+          "description": "<div style=\"display: none;\">&nbsp;</div>\r\n<p>&nbsp;</p>",
+          "barcode": null,
+          "stock": 999,
+          "hasOffer": false,
+          "alwaysAvailable": true
+        },
+        {
+          "id": 37,
+          "title": "Gm",
+          "sellingPrice": 0.57,
+          "markedPrice": 0.5,
+          "newPrice": 1,
+          "oldPrice": 0.57,
+          "size": "1 Kg",
+          "sku": "MM-CH-",
+          "description": "<div style=\"display: none;\">&nbsp;</div>\r\n<p>&nbsp;</p>",
+          "barcode": null,
+          "stock": 999,
+          "hasOffer": false,
+          "alwaysAvailable": true
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "imageName": "https://koklassv4-orderingdev-ms.ekbana.net/storage/products/thumbnail/60ed72e4825c0.jpeg",
+          "unit_price_id": null
+        },
+        {
+          "id": 8,
+          "imageName": "https://koklassv4-orderingdev-ms.ekbana.net/storage/products/thumbnail/612f41b567d88.jpeg",
+          "unit_price_id": null
+        }
+      ],
+      "warehouses": [
+        {
+          "id": 1,
+          "title": "Kathmandu"
+        }
+      ],
+      "tags": [],
+      "brand": null
+    }
+  }
+]

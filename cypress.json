@@ -1,0 +1,4 @@
+{
+    "experimentalSessionSupport": true,
+    "testFiles": "**/*.{feature,features}"
+}

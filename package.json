@@ -1,0 +1,30 @@
+{
+  "name": "koklass_automation",
+  "version": "1.0.0",
+  "description": "Koklass cypress bdd automation",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "yarn run verify",
+    "verify": "cypress verify",
+    "cyopen": "cypress open",
+    "cyrun": "cypress run --spec cypress/integration",
+    "start": "yarn run cyopen || yarn run pretest",
+    "test": "yarn run cyrun  || yarn run pretest"
+  },
+  "repository": "httpsgithub.comr00kie992Koklass_Automation",
+  "author": "“nilimakarki” <“nilimakarki20@gmail.com”>",
+  "license": "ISC",
+
+  "devDependencies": {
+    "cypress": "^9.5.3",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+
+  "dependencies": {
+    "faker": "^4.0.0"
+  },
+  
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
